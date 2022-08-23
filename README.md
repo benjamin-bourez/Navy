@@ -22,4 +22,6 @@ first_player_pid:     only for the 2nd player. pid of the first player.
 navy_positions:       file representing the positions of the ships!
 
 Example:
-[Screenshot_2022-08-23_10-02-08](https://user-images.githubusercontent.com/91674887/186105308-b331c1c2-426a-40ad-9a3c-474da00515b9.png)
+
+
+![alt text](https://raw.githubusercontent.com/benjamin-bourez/navy/master/example.png)
